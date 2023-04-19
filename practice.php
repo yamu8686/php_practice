@@ -21,5 +21,9 @@
     echo $sum;
   ?>
 
+  <?php
+    echo "なんと{$fruit}が{$sum}もある";
+  ?>
+
 </body>
 </html>
